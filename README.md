@@ -18,7 +18,7 @@
 <!--Introduction -->
 Hi, I'm [Mubtasim Fuad](https://github.com/MubtasimFuad10), an undergraduate student 🚀 from Dhaka, Bangladesh who loves to code and passionate about travelling around the world 🌏 and space 🌌. Currently, I'm studying Computer Science Engineering 💻 at  University of Asia-Pacific.
 
-<img align="right" alt="GIF" src="https://github.com/MFT10/MFT10/blob/master/code.gif?raw=true" width="400" height="280" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/MubtasimFuad10/MubtasimFuad10/main/code.gif" width="400" height="280" />
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Mubtasim Fuad](https://www.linkedin.com/in/mubtasim-fuad-302832193/)
