@@ -1,6 +1,6 @@
 <!-- Greeting -->
 # Hey there! :wave::smiley:
-![](https://visitor-badge.glitch.me/badge?page_id=MubtasimFuad10.MubtasimFuad10)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MubtasimFuad10&label=Profile%20views&color=0e75b6&style=flat" alt="Mubtasim Fuad" /> </p>
 
 <div>
 <a href="https://www.linkedin.com/in/mubtasim-fuad-302832193/">
