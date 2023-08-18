@@ -27,6 +27,7 @@ Hi, I'm [Mubtasim Fuad](https://github.com/MubtasimFuad10), an undergraduate stu
 * Working on my project
 * Learning Front-End Web:computer: Development
 * Advancing my Python skills:snake:
+* Working on my Thesis on Natural Language Processing and Deep Learning
 * 🔜
 
 
