@@ -3,12 +3,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MubtasimFuad10&label=Profile%20views&color=0e75b6&style=flat" alt="Mubtasim Fuad" /> </p>
 
 <div>
-<a href="https://www.linkedin.com/in/mubtasim-fuad-302832193/">
+<a href="https://www.linkedin.com/in/mubtasimfuad10/">
   <img align="left" alt="Fuad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/mubtasim.turzo">
     <img align="left" alt="Fuad | Facebook" width="22px" src="https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png">
-<a href="https://twitter.com/MubtasimFuad19">
+<a href="https://twitter.com/mubtasim_fuad10">
     <img align="left" alt="Fuad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
 </a>
 </div>
@@ -21,7 +21,7 @@ Hi, I'm [Mubtasim Fuad](https://github.com/MubtasimFuad10), an undergraduate stu
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/MubtasimFuad10/MubtasimFuad10/main/code.gif" width="400" height="280" />
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Mubtasim Fuad](https://www.linkedin.com/in/mubtasim-fuad-302832193/)
+- 📫 How to reach me: [Mubtasim Fuad](https://www.linkedin.com/in/mubtasimfuad10/)
 
 ### 💼  Things that I'm currently working on: 
 * Working on my project
