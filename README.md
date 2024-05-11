@@ -25,9 +25,8 @@ Hi, I'm [Mubtasim Fuad](https://github.com/MubtasimFuad10), an undergraduate stu
 
 ### 💼  Things that I'm currently working on: 
 * Working on my project
-* Learning Front-End Web:computer: Development
 * Advancing my Python skills:snake:
-* Working on my Thesis on Natural Language Processing and Deep Learning
+* Working on my Research on Generative AI, LLMs and NLP
 * 🔜
 
 
